@@ -1,0 +1,20 @@
+/* Created by: Samuel Carlson
+* Created on: Feb 2022
+*This CSS file defines style for index.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: ForestGreen;
+  }
+
+h1 {
+  background-color: rgb(34, 139, 34);
+  color: hsl(246°, 94%, 50%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #000080;
+}
